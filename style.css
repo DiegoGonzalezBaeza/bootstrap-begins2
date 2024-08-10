@@ -1,0 +1,8 @@
+.custom-bg {
+    background-color: #000000; /* Color oscuro de fondo */
+    background-image: url('Img/Figura_com3.png'); /* Reemplaza con tu imagen */   
+    background-repeat: no-repeat;
+    background-position: right center; /* Posiciona la imagen a la derecha */
+     /* Asegura que la imagen cubra el área */
+    height: 1000px; /* Altura del contenedor */
+}
